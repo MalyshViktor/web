@@ -1,0 +1,24 @@
+body
+{
+	background:lightgrey ;
+}
+h1
+{
+	text-align: center;
+}
+h2
+{
+	text-align: center;
+}
+hr
+{
+	width: 630px;
+}
+
+#box
+{
+	text-align: left;
+	width: 650px;
+	height: 500px;
+	margin: auto;
+}
