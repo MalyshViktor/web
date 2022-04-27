@@ -1,0 +1,21 @@
+ol
+{
+	background: pink;
+	list-style-position: inside;
+	padding: 10px;
+	width: 400px;
+	font-family: Calibri;
+}
+ol li 
+{
+	background: #E15858;
+	color: white;
+	margin: 8px;
+	padding: 10px;
+}
+mark
+{
+	background: red;
+	color: white;
+	padding: 10px;
+}
